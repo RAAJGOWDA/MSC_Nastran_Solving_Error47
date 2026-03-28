@@ -1,1 +1,1 @@
-Sol.
+Sol.1d- elements were not equivalence and the connecting frame Horizontal to vertical pillar nodes were not connected to each other. In Hyperview the Beam was dropping from being fixed at the corners.
